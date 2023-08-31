@@ -1,0 +1,2 @@
+Old string: Thejas is a Tiger 
+New string: Thejas is a Beast
